@@ -1,16 +1,56 @@
-#### Submitted
 
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
 
-#### Published
-
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
-
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
-
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
+[1] Zheng Z, Yin K, Wang T*, et al, "DeepUL: Deep Unlearning via Model Sparsity", <em>Proceedings of the ACM Web Conference 2026</em>.\
+[2] Wang T, Wang J, Zheng Z, et al, "Diffusion Model-Enabled Reversible Facial Privacy-Preserving Method", <em>Journal of Terahertz Science and Electronic Information Technology</em>, to be presented in 2026, 7 (in Chinese).\
+[3] Wang T, Kuang Y, Zheng Z, Xie X, Gu X, "PD-GAN: Palmprint De-Identification Based on Generative Adversarial Networks," <em>IEEE Transactions on Consumer Electronics</em>, 2025, early access.\
+[4] Wang T, Lin T, Liu Z, Xie X, Yao S, "ADPGAN: Adaptive Differential Privacy-Preserving GAN for Image Privacy", <em>Information Fusion</em>, 2026, vol. 125, 103515.\
+[5] Wang T, Chen X, Liu Z, Yao S, "DiffuShield: Flexible Privacy-Preserving Synthetic Face Generation via Generative Diffusion Model", <em>Information Fusion</em>, 2026, vol. 125, pp. 103451\
+[6] Lin T, Wang T*, Zheng Z, "DR-DPGAN: Dual Prior GAN for Image Privacy Based on Dynamic Reversibility", <em>Journal of Advanced Digital Communications</em>, 2025, 2(1), 1.\
+[7] Kuang Y, Wu Y, Wang T*, Wu Gavin J, "The Art of Unlearning: An Exploration of the Affective Privacy Unlearning Model in Online Education", <em>Proceedings of the 3rd International Conference on Metaverse and Artificial Companions in Education and Society (MetaACES 2025)</em>, 2025.\
+[8] Liu Y, Li Y, He Y, Wang T*, Zheng Z, "LightweightPhys: A Lightweight and Robust Network for Remote Photoplethysmography Signal Extraction", <em>Journal of Advanced Digital Communications</em>, 2025, 2(1), 2.\
+[9] Li X, Yan T, Zhang Y, Wang T*, "Modeling and Mechanism Analysis of University Students' Participation Willingness in Smart Classroom Privacy Governance", <em>Modern Distance Education</em>, 2025, 3, 70-78 (in Chinese).\
+[10] Wang T, Zeng Y, Liu Q, Liu J, Wei Y, "Governance Framework and Practical Pathways for the Circulation of Educational Data Elements Based on Trustworthy Data Spaces", <em>e-Education Research</em>, 2025, 10, 39-46 (in Chinese).\
+[11] Mu Y, Wu J, Wang, Xian J, "Topic Mining and Evolutionary Analysis of Bilibili Learning Video Danmu Based on BERTopic Model", <em>Proceedings of the 29th Global Chinese Conference on Computers in Education (GCCCE 2025)</em>, 2025.\
+[12] Wang J, Liu Y, Chen X, Wang T*, "Generative Facial Privacy-Preserving Method for Secure Learning Analysis", <em>Proceedings of the 29th Global Chinese Conference on Computers in Education (GCCCE 2025)</em>, 2025.\
+[13] Wu Y, Liu Y, Kuang Y, Wang T*, Machine Unlearning-Enabled Intelligent Educational Applications, <em>Proceedings of the 29th Global Chinese Conference on Computers in Education (GCCCE 2025)</em>, 2025.\
+[14] Zeng Y, Liu J, Liu Y, Wang T*, The Path of Building Trusted Data Space under Digital Transformation of Education, <em>Proceedings of the 29th Global Chinese Conference on Computers in Education (GCCCE 2025)</em>, 2025.\
+[15] Ding X, Wei Y, Xu Q, Li X, Wang T, et al, "Comparative Review of Student AI Literacy Frameworks: Commonalities and Discrepancies", <em>Proceedings of the 13th International Conference of Educational Innovation through Technology (EITT 2025)</em>, 2025.\
+[16] Yao S, Pan K, Wang T*, et al, "AAGNet: Attribute-Aware Graph-Based Network for Occluded Pedestrian Re-identification", <em>IEEE Transactions on Consumer Electronics</em>, 2024, vol.70, no.4, pp.6580-6588.\
+[17] Wu Y, Kuang Y, Chen X, Wang T*, "Making AI Forget You: Removing Educational Data from Intelligent Education Models", <em>Proceedings of the 13th International Conference of Educational Innovation through Technology (EITT 2024)</em>, 2024.\
+[18] Wu Y, Kuang Y, Wang T*. Enforce Artificial Intelligence Forget You: The Connotation and Application of Intelligent Unlearning of Educational Data, <em>Proceedings of the 2nd International Conference on Educational Ethics and Social Responsibility</em>, 2024.\
+[19] Wang T, Zhang Y, Li X, Liu Q, Zhang S, "Trust Mechanism for the Data-driven Education Digital Transformation--Construction and Typical Application Scenario Analysis of Privacy Enhancement Model for the Full Life Cycle of Educational Big Data", <em>Modern Educational Technology</em>, 2024, 34, 3, 28-38 (in Chinese).\
+[20] Wang T, et al, "PREEN: An Aggregation Mechanism for Privacy-Preserving Smart-Metering Communications", <em>IEEE Transactions on Consumer Electronics</em>, 2024, vol. 70, no.1, pp. 2949-2959. (ESI hot paper)\
+[21] Pan K, Zhao Y, Wang T, Yao S, "MSNet: a lightweight multi-scale deep learning network for pedestrian re-identification", <em>Signal, Image and Video Processing</em>, 2023, 17, pp. 3091-3098.\
+[22] Li X, Zhang X, Wang T, et al, "Group Dynamics Characteristics in Teachers' Network Learning Community from the CoP Perspective", <em>Modern Educational Technology</em>, 2023, 33, 9, 89-98.\
+[23] Zheng Z, Wang T*, et al, "A Decentralized Mechanism Based on Differential Privacy for Privacy-Preserving Computation in Smart Grid", <em>IEEE Transactions on Computers</em>, 2022, vol. 71, no. 11, pp. 2915-2926.\
+[24] Zhang S, Chen J, Xia D, Wang T, et al, "A Study on the Joint Modeling of Learner Interest and Behavior Topics in Online Forums", <em>Journal of Distance Education</em>, 2022, 40, 1, 81-90 (in Chinese).\
+[25] Yao S, Zheng Z, Wang T, "A Patch-Based Composite Denoising Algorithm for Wireless Transmission", <em>IEEE Transactions on Aerospace and Electronic Systems</em>, 2022, Vol. 58, no. 6, pp. 4880-4890.\
+[26] Yao S, Liu Y, Wang T*, et al, "MLR: An Efficient Denoising Model for Highly Corrupted Images", in <em>Proceedings of the 48th Annual Conference of the Industrial Electronics Society (IECON 2022)</em>, 2022.\
+[27] Wang T, et al, "FinPrivacy: A Privacy-Preserving Mechanism for Fingerprint Identification", <em>ACM Transactions on Internet Technology</em>, 2021, vol. 21, no. 3, pp. 1-15 \
+[28] Yao S, Hu C, Wang T, et al. Autoencoder-like Semi-NMF Multiple Clustering. <em>Information Sciences</em>, 2021, vol. 57, pp. 331-342.\
+[29] Zheng Z, Wang T*, Wen J, Shahid Mumtaz, Ali Kashif Bashir, Sajjad Hussain Chauhdary, "Differentially Private High-Dimensional Data Publication in Internet of Things", <em>IEEE Internet of Things Journal</em>, 2020, vol. 7, no. 4, pp. 2640-2650. \
+[30] Wang T, Zheng Z, Mohamed Elhoseny, "Equivalent Mechanism: Releasing Location Data with Errors through Differential Privacy", <em>Future Generation Computer Systems</em>, 2019, vol. 98, pp. 600-608. \
+[31] Wang T, Zheng Z, Mubashir Husain Rehmani, Yao S, Huo Z, "Privacy Preservation in Big Data from the Communication Perspective - A Survey", <em>IEEE Communications Surveys & Tutorials</em>, 2018, vol. 21, no. 1, pp. 753-778. \
+[32] Wang T, Zheng Z, et al, "Reliable and Robust Unmanned Aerial Vehicle Wireless Video Transmission", <em>IEEE Transactions on Reliability</em>, 2019, vol. 68, no. 3, pp. 1050 - 1060. \
+[33] Yao S, Zheng Z, Wang T*, Guan Q, "An Efficient Joint Compression and Sparsity Estimation Matching Pursuit Algorithm for Artificial Intelligence Application", <em>Future Generation Computer Systems</em>, 2018, vol. 86, pp. 603-613. \
+[34] Wang T, Xu Z, Wang D, Wang H, "Influence of Data Errors on Differential Privacy", <em>Cluster Computing</em>, 2019, vol. 22, pp. 2739-2746.\
+[35] Yao S, Wang T*, Guan Q, Xie X, "Noisy Image Reconstruction Based on Low-rank in UAV Wireless Transmission", <em>Cluster Computing</em>, 2017, 1-12. \
+[36] Wang T, Yao S, Xu Z, Pan S, "Dynamic Replication to Reduce Access Latency Based on Fuzzy Logic System", <em>Computers and Electrical Engineering</em>, 2017, vol. 60, pp. 48-57.\
+[37] Wang T, Yao S, Xu Z, Jia S, "DCCP: An Effective Data Placement Strategy for Data-Intensive Computations in Distributed Cloud Computing Systems", <em>Journal of Supercomputing</em>, 2016, vol. 27, no. 7, pp. 2537-3564.\
+[38] Wang T, Yao S, Xu Z, et al, "An Effective Strategy for Improving Small File Problem in Distributed File System", <em>Proceedings of 2nd International Conference on Information Science and Control Engineering, ICISCE 2015</em>, 122-126. (EI)\
+[39] Wang T, Yao S, Xu Z, Jia S, "FRLDM: A Self-Optimizing Algorithm for Data Migration in Distributed Storage Systems", <em>Proceedings of 2nd International Workshop on Materials Engineering and Computer Sciences (IWMECS 2015)</em>, 2015, 582-588. \
+[40] Wang T, Yao S, Xu Z, Jia S, Xu Q, "A Data Placement Strategy for Big Data Based on DCC in Cloud Computing Systems", <em>Proceedings of 2015 IEEE International Conference on Smart City/SocialCom/SustainCom (SmartCity)</em>, IEEE, 2015: 623-630. \
+[41] Zheng Z, Arun Kumar Sangaiah, Wang T, "Adaptive Communication Protocols in Flying Ad Hoc Network", <em>IEEE Communications Magazine</em>, 2018, vol. 56, no. 1, pp. 136-142. \
+[42] Yao S, Wang T, Chong T, Pan S, "Sparsity Estimation Based Adaptive Matching Pursuit Algorithm", <em>Multimedia Tools & Applications</em>, 2018, vol. 77, pp. 4095-4112. \
+[43] Yao S, Arun K S, Zheng Z, Wang T, "Sparsity Estimation Matching Pursuit Algorithm Based on Restricted Isometry Property for Signal Reconstruction", <em>Future Generation Computer Systems</em>, 2018, vol. 88, pp. 747-754.\ 
+[44] Wang H, Xu Z, Xiong L, Wang T, "CLM: A Differential Privacy Protection Method for Trajectory Publishing", <em>Journal of Communications</em>, 2017, vol. 38, no. 6, pp. 85-96. (in Chinese)\
+[45] Wang H, Xu Z, Xiong L, Wang T, "Conducting Correlated Laplace Mechanism for Differential Privacy", <em>Proceedings of International Conference on Cloud Computing and Security</em>, Springer, Cham, 2017, pp. 72-85. \
+[46] Yao S, Pan S, Wang T, et al, "A New Pedestrian Detection Method Based on Combined HOG and LSS Features", <em>Neurocomputing</em>, 2015, vol. 151, no. 3, pp. 1006-1014. \
+[47] Yao S, Wang T, Shen W, et al, "Feature Selection and Pedestrian Detection Based on Sparse Representation", <em>Plos One</em>, 2015, vol. 10, no. 8, pp. e0134242. \
+[48] Yao S, Wang T, Shen W, Chong Y, "The Chaotic Measurement Matrix for Compressed Sensing", in <em>Proceedings of 11th International Conference on Intelligent Computing, ICIC 2015</em>, Fuzhou, China, 2015, 58-64.\
+[49] Yao S, Wang T, Shen W, Pan S, Chong Y, "Research of Incoherence Rotated Chaotic Measurement Matrix in Compressed Sensing", <em>Multimedia Tools & Applications</em>, 2017, vol. 76, pp. 17699-17717.\
+[50] Yao S, Wang T, Shen W, Chong Y, A Novel Combination Feature HOG-LSS for Pedestrian Detection. in <em>Proceedings of 9th International Conference on Intelligent Computing, ICIC 2013</em>, Nanning, China, 2013, 177-181. \
+[51] Wang T, Yao S, Xu Z, Xiong L, "A Small Files Merging and Prefetching Strategy Based on Access Task in Cloud Storage", <em>Geomatics and Information Science of Wuhan University</em>, 2013, vol. 38, no. 12, pp. 1504-1508 (in Chinese).\
+[52] Wang Tao, Senbai Dalabaev, "High-Order Statistics-based Signal Detection in Multi-modal Noise", <em>Communication Technology</em>, 2010, 43, 12, 18-23 (in Chinese).\
+[53] Wang Tao, Senbai Dalabaev, Liu G, "Higher-Order Statistics for Signal Characterization", <em>Communication Technology</em>, 2011, 44, 2, 151-153 (in Chinese).\
+[54] Yao S, Wang T, Jia Z, et al. Algorithm of microcanonical-SVM based for forecasting traffic load. <em>Computer Engineering and Applications</em>, 2012, 48, 3, 105-106 (in Chinese).
