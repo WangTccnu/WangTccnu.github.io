@@ -16,10 +16,9 @@
 
 .top-section {
     position: relative;
-    padding: 10rem 0;
+    padding-top: 66.67%; /* 100% / 1.5 = 66.67%，匹配图片宽高比 1.5:1 */
     background-position: center;
     background-size: cover;
-    height: 25rem;
 }
 
 .top-section h2 {
