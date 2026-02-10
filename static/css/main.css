@@ -16,7 +16,7 @@
 
 .top-section {
     position: relative;
-    padding-top: 66.67%; /* 100% / 1.5 = 66.67%，匹配图片宽高比 1.5:1 */
+    padding-top: 42.55%; /* 100% / 2.35 = 42.55%，匹配图片宽高比 2.35:1 */
     background-position: center;
     background-size: cover;
 }
