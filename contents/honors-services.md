@@ -1,4 +1,4 @@
-# Honors and Services
+
 
 #### Honors
 
